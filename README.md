@@ -1,0 +1,4 @@
+jclassswitcher
+==============
+
+jQuery Class Switcher
