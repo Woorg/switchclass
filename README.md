@@ -1,4 +1,2 @@
-jclassswitcher
+switchClass for jQuery
 ==============
-
-jQuery Class Switcher

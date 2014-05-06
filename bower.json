@@ -1,0 +1,31 @@
+{
+  "name": "switchclass",
+  "version": "0.0.1",
+  "homepage": "https://github.com/humantech/switchclass",
+  "authors": [
+    "Ricardo Lüders <ricardo@luders.com.br>"
+  ],
+  "description": "switchClass for jQuery",
+  "main": "dist/switchclass.min.js",
+  "keywords": [
+    "class",
+    "switch",
+    "switcher",
+    "javascript",
+    "plugin",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "README.md",
+    "package.json",
+    "Gruntfile.js",
+    "composer.json"
+  ]
+}

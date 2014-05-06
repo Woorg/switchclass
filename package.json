@@ -1,0 +1,42 @@
+{
+  "name": "switchclass",
+  "version": "0.0.1",
+  "description": "switchClass for jQuery",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humantech/switchclass.git"
+  },
+  "keywords": [
+    "class",
+    "switch",
+    "switcher",
+    "javascript",
+    "plugin",
+    "jquery"
+  ],
+  "author": [
+    {"name": "Ricardo Lüders", "email": "ricardo@luders.com.br"}
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/humantech/switchclass/blob/master/LICENCE"
+  },
+  "bugs": {
+    "url": "https://github.com/humantech/switchclass/issues"
+  },
+  "homepage": "https://github.com/humnatech/switchclass",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-qunit": "~0.4.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "phantomjs": "~1.9.7-3"
+  }
+}
